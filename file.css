@@ -1,0 +1,26 @@
+div
+{
+	margin: 10px; /* m10 */
+	margin: 10px 20px; /* m10-20 */
+	margin: -10px -20px; /* m-10--20 */
+	margin: 10%; /* m10p */
+	margin: 10em; /* m10e */
+	color: #222; /* c#2 */
+	color: #e1e1e1; /* c#e1 */
+	color: #a10293; /* c#a10293 */
+	color: rgb(0, 0, 0); /* cr */
+	display: flex; /* df */
+	
+	border: 2px #000 solid; /* bd2#0s */
+	border: 1px solid #000; /* bd */
+	
+	background: #000; /* bg */
+	background-color: #fff; /* bgc */
+	
+	
+	/* m10+p20 */
+	margin: 10px;
+	padding: 20px;
+	
+	
+}
